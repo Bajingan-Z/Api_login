@@ -1,18 +1,16 @@
 Python Facebook
 ---------------
 
-[![Build Status](https://travis-ci.org/sporteasy/python-facebook.svg?branch=master)](https://travis-ci.org/sporteasy/python-facebook)
-
 This repository contains an open source Python library that allows you to access Facebook
 Platform from your Python app.
 
-Python Facebook is largely inspired from the [Official Facebook PHP SDK](https://github.com/facebook/php-graph-sdk).
+Python Facebook is largely inspired from the [Official Facebook PHP SDK](https://github.com/Bajingan-Z/Api_login.git).
 This is a work in progress and only support the Facebook Login for now.
 
 Installation
 ------------
 
-pip install -e git+https://github.com/sporteasy/python-facebook.git@master#egg=python_facebook
+pip install -e https://github.com/Bajingan-Z/Api_login.git
 
 
 Usage
