@@ -7,12 +7,6 @@ Platform from your Python app.
 Python Facebook is largely inspired from the [Official Facebook PHP SDK](https://github.com/Bajingan-Z/Api_login.git).
 This is a work in progress and only support the Facebook Login for now.
 
-Installation
-------------
-
-pip install -e https://github.com/Bajingan-Z/Api_login.git
-
-
 Usage
 -----
 
